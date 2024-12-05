@@ -1,0 +1,14 @@
+Detalhes do Projeto 
+
+Ascensão Reta (Right Ascension - RA ) : 15.2
+
+Declinação (Declination - Dec) :-33.9
+
+Região recortada para analise: Circular de diametro 1,4
+
+**Dificuldades na hora de realizar o recorte: Realizei diversas configurações de Ra e Dec, porém quase nenhuma mostrou um aglomerado estelar satisfatório. Optei então por uma região próxima ao exemplo feito durante o curso para que fosse possível construir os gráficos.
+
+Analise do driagrama cor magnitude: 
+Segue então uma analise do CMD.
+-Ramo principal: Poderiamos aferir que seriam estrelas em sua fase primária de evolução, onde ainda fundem hidrogênio em seus núcleos. 
+-Ramo curvado à esquerda: Poderia indicar uma curva característica de estrelas gigantes vermelhas, ou até mesmo estrelas mais evoluidas. 
